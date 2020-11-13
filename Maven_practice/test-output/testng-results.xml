@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-02T11:24:44 IST" name="Default suite" finished-at="2020-11-02T11:25:01 IST" duration-ms="17287">
+    <groups>
+    </groups>
+    <test started-at="2020-11-02T11:24:44 IST" name="Default test" finished-at="2020-11-02T11:25:01 IST" duration-ms="17287">
+      <class name="demo6_relatpath">
+        <test-method signature="login()[pri:0, instance:demo6_relatpath@157853da]" started-at="2020-11-02T11:24:44 IST" name="login" description="FirstMethod" finished-at="2020-11-02T11:25:01 IST" duration-ms="17260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- demo6_relatpath -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
